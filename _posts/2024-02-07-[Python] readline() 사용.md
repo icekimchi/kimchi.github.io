@@ -1,5 +1,5 @@
 ---
-title: [Python] sys.stdin.readline() - 빠른 입력 받기
+title: "[Python] sys.stdin.readline() - 빠른 입력 받기"
 date: 2024-02-07 09:18:00 +0800
 categories: [Algorithm, Python]
 tags: [python, 코딩테스트]
@@ -24,7 +24,7 @@ tags: [python, 코딩테스트]
 ```python
 import sys
 
-변수 = sys.stdin.readline()
+a = sys.stdin.readline()
 ```
 - 문자열로 입력 받는다.
 - 개행 문자를 같이 입력 받는다.
